@@ -23,7 +23,7 @@ This flexibility makes the project suitable for **safety monitoring** and **stat
 See [materials.csv](materials.csv)
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](_IoT%20Smart%20monitoring%20devic.png)
+![Circuit Diagram](_IoT%20Smart%20monitoring%20devic%20.png)
 
 
 ## 🖥️ Simulation
