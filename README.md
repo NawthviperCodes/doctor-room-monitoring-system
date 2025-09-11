@@ -23,7 +23,8 @@ This flexibility makes the project suitable for **safety monitoring** and **stat
 See [materials.csv](materials.csv)
 
 ## 🔌 Circuit Diagram
-![Circuit Diagram](IoT Smart monitoring devic.png)
+![Circuit Diagram](IoT%20Smart%20monitoring%20devic.png)
+
 
 ## 🖥️ Simulation
 Screenshots of Tinkercad simulation can be found in `simulation_screenshots/`
