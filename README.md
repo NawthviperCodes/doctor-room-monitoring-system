@@ -30,4 +30,4 @@ See [materials.csv](materials.csv)
 Screenshots of Tinkercad simulation can be found in `simulation_screenshots/`
 
 ## ⚙️ Code
-See [doctor_monitor.ino](doctor_monitor.ino)
+See [_iot_smart_monitoring_devic_1.ino](_iot_smart_monitoring_devic_1.ino)
